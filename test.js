@@ -1,1 +1,1 @@
-var test = 123;
+global gitignore
